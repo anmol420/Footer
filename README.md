@@ -11,8 +11,6 @@
 
 - Go To Your Editor And Left Click On `index.html` file and Open It In Live Server.
 
-- Then paste the link in your browser and hit enter.
-
 <h2>Discord Server</h2>
 
 [Join our discord server now to get additional support or hang out!](https://discord.gg/QGf3q7e3J5)
